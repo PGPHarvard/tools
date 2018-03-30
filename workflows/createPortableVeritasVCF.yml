@@ -1,0 +1,7 @@
+refdirectory:
+   class: Directory
+   path: keep:1e5ea710abeba910732aed779dd1f057+3456
+
+reference:
+   class: File
+   path: keep:7335c8bcfe28cdd963cec8b1b82b809e+3855/hg19.fa.gz.fai

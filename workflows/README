@@ -1,0 +1,11 @@
+
+* createPortableVeritasVCF
+
+This workflow converts Veritas VCF files into portable VCF files. Example invocation:
+
+  cwl-runner --api containers createPortableVeritasVCF.cwl createPortableVeritasVCF.yml
+
+With more debug output, and keep the workflow runner local:
+
+  cwl-runner --debug --local --api containers createPortableVeritasVCF.cwl createPortableVeritasVCF.yml
+
