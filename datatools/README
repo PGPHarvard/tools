@@ -1,0 +1,9 @@
+* datatools
+
+This directiory contains scripts to collect existing PGP data, label it by huID and place it in Arvados collections. Each collection contains a specific type of PGP data, for example one collection contains Vertias VCF data. 
+
+Most general consumers of PGP data will not need to use these scripts. These scripts are put in this directory to 1) enable transparency of how these collections were created 2) allow others to create similar collections if necessary. 
+
+
+
+
